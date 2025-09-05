@@ -77,8 +77,11 @@ Compact PCB design for real-world integration into vehicles
 ## 👥 Contributors
 
 Mithra Vinod
+
 Aishwarya
+
 Ameen
+
 Pravin
 
 ## 📜 License
