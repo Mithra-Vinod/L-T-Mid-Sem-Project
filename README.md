@@ -76,9 +76,10 @@ Compact PCB design for real-world integration into vehicles
 
 ## 👥 Contributors
 
-[Your Name] – Project design, Arduino programming, documentation
-
-Team members/classmates (if any, add their names here)
+Mithra Vinod
+Aishwarya
+Ameen
+Pravin
 
 ## 📜 License
 
